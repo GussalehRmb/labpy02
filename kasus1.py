@@ -13,4 +13,4 @@ if harga == 0:
     print("Tipe tiket tidak valid.")
 else:
     print(f"Harga tiket sebelum diskon: Rp{harga:,}")
-    print(f"Total yang harus dibayar: Rp{int(total):,}")
+    print(f"Total yang harus dibayar: Rp{int(total):,}") 
