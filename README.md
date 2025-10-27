@@ -34,3 +34,8 @@
 ### Terakhir jalankan code terminalnya buat commit dan push ke repository yang baru di buat
 ![alt text](image-7.png)
 ![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+### Maka project/file kita akan tersimpan di repository
+
