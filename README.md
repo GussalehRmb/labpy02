@@ -20,23 +20,23 @@
 ![alt text](ss/image-7.png)
 ### Setelah semua selesai Commit dan push pada repository
 ### Buatkan new repository pada akun GitHub
-[alt text](<image-8 (2).png>)
+[alt text](<ss.2/image-8 (2).png>)
 ### klik bagian new pada warna hijau tersebut
-![alt text](<image-9 (2).png>)
+![alt text](.2/ssimage-9 (2).png>)
 ### atau pada bagian profil baian kanan atas dan disitu ada bagian repositorynya
 ### setelah itu buatkan nama file repositorinya pada bagian "Repository name" dan klik pada menu bagian bawah warna hijau, 
-![alt text](<image-10 (2).png>)
+![alt text](<ss.2/image-10 (2).png>)
 ### maka repositorinya akan meminta file yang kita commit dan push dari project labpy02 yang sudah kita buat  
-![alt text](<image-10 (3).png>)
+![alt text](<ss./image-10 (3).png>)
 ### selanjutnya kita masuk ke visual studio code (VSC) untuk menjalankan lewat terminal/git bash dari repository yang kita buat  "disini saya menggunakan terminal dari VS Codenya sendiri"
 ### klik titik 3 bagian atas, kemudian geser kebagian terminal dan klik new terminal
 ![alt text](<image-12 (3).png>)
 ### Terakhir jalankan code terminalnya buat commit dan push ke repository yang baru di buat
-![alt text](image_13.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
+![alt text](ss.2/image_13.png)
+![alt text](ss.2/image-8.png)
+![alt text](ss.2/image-9.png)
+![alt text](ss.2/image-10.png)
+![alt text](ss.2/image-11.png)
 ### Maka project/file kita akan tersimpan di repository
-![alt text](<image-11 (2).png>)
+![alt text](<ss.2/image-11 (2).png>)
 
